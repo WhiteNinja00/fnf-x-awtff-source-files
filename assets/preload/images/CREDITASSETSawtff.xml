@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CREDITASSETSawtff.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="coded-vr basic" x="0" y="0" width="297" height="63" pivotX="0" pivotY="0"/>
+	<SubTexture name="coded-vr white" x="297" y="0" width="297" height="63" pivotX="0" pivotY="0"/>
+	<SubTexture name="joseph-animations basic" x="0" y="63" width="614" height="63" pivotX="0" pivotY="0"/>
+	<SubTexture name="joseph-animations white" x="0" y="126" width="614" height="63" pivotX="0" pivotY="0"/>
+	<SubTexture name="white-ninja basic" x="614" y="126" width="386" height="60" pivotX="0" pivotY="0"/>
+	<SubTexture name="white-ninja white" x="0" y="189" width="386" height="60" pivotX="0" pivotY="0"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CREDITASSETS.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Awtff basic" x="0" y="0" width="413" height="199" pivotX="0" pivotY="0"/>
+	<SubTexture name="Awtff white" x="413" y="0" width="413" height="199" pivotX="0" pivotY="0"/>
+	<SubTexture name="Fnf basic" x="0" y="199" width="317" height="199" pivotX="0" pivotY="0"/>
+	<SubTexture name="Fnf white" x="317" y="199" width="317" height="199" pivotX="0" pivotY="0"/>
+	<SubTexture name="Kadedev basic" x="634" y="199" width="374" height="201" pivotX="0" pivotY="0"/>
+	<SubTexture name="Kadedev white" x="0" y="400" width="374" height="201" pivotX="0" pivotY="0"/>
+</TextureAtlas>
